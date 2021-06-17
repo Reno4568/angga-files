@@ -1,13 +1,13 @@
 <!DOCTYPE html><html class=''>
 <head><meta charset='UTF-8'><meta name="robots" content="noindex">
 <meta property="og:type" content="website" />
-<meta property="og:title" content="NTAH LAH BRO ANE GABUT" />
+<meta property="og:title" content="ANGGAXD TOOLKIT" />
 <meta property="og:url" content="https://anggaxd.herokuapp.com" />
-<meta property="og:description" content="NTAH LAH BRO ANE GABUT" />
+<meta property="og:description" content="Btw Angga Ganteng :v" />
 <title> ANGGAXD TOOLKIT</title>
 <link rel="shortcut icon" href="https://i.ibb.co/Z29XtDF/media-social-web-website-world-world-wide-web-www-icon-1320137118617799695.png">
 <style class="cp-pen-styles">body {
-  background-color:  #060606 ;
+  background-color:  #121010 ;
 }
 svg {
   position: absolute;
