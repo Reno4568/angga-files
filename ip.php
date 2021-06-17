@@ -1,7 +1,7 @@
 <?php
 
-$info=$_SERVER['HTTP_USER_AGENT'];
+$ip_address=$_SERVER['REMOTE_ADDR'];
 
-echo "$info";
+echo "$ip_address";
 
 ?>
