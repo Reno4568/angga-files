@@ -4,7 +4,7 @@
 <meta property="og:title" content="ANGGAXD TOOLKIT" />
 <meta property="og:url" content="https://anggaxd.herokuapp.com" />
 <meta property="og:description" content="Btw Angga Ganteng :v" />
-<title> ANGGAXD TOOLKIT</title>
+<title>ANGGAXD TOOLKIT</title>
 <link rel="shortcut icon" href="https://i.ibb.co/Z29XtDF/media-social-web-website-world-world-wide-web-www-icon-1320137118617799695.png">
 <style class="cp-pen-styles">body {
   background-color:  #121010 ;
@@ -135,11 +135,11 @@ setInterval(function() {
 <p>TOOLS BY ANGGA KURNIAWAN</p>
 <div class="buttons-con">
 <div class="action-link-wrap">
-<a href="ip.php" class="link-button">IP ADDRESS</a>
-<a href="ua.php" class="link-button">USER AGENT</a>
+<a href="/ip" class="link-button">IP ADDRESS</a>
+<a href="/ua" class="link-button">USER AGENT</a>
 <br><br><br>
-<a href="kota.php" class="link-button">KOTA</a>
-<a href="negara.php" class="link-button">NEGARA</a><br><br><br>
+<a href="/kota" class="link-button">KOTA</a>
+<a href="/negara" class="link-button">NEGARA</a><br><br><br>
 <a href="https://www.facebook.com/gaaaarzxd" class="link-button">REPORT</a>
 <br><br><br>
 </div>
