@@ -139,8 +139,13 @@ setInterval(function() {
 <a href="/ua" class="link-button">USER AGENT</a>
 <br><br><br>
 <a href="/kota" class="link-button">KOTA</a>
-<a href="/negara" class="link-button">NEGARA</a><br><br><br>
-<a href="https://www.facebook.com/gaaaarzxd" class="link-button">REPORT</a>
+<a href="/negara" class="link-button">NEGARA</a>
+<br><br><br>
+<a href="https://www.facebook.com/gaaaarzxd" class="link-button">LAPORKAN</a>
+<br><br><br>
+<p>TOOLS UNTUK TERMUX</p>
+<a href="/ua.txt" class="link-button">USER AGENT FACEBOOK</a>
+<a href="https://github.com/anggaxd" class="link-button">GITHUB</a>
 <br><br><br>
 </div>
 </div>
