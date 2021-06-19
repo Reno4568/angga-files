@@ -1,9 +1,11 @@
-<!DOCTYPE html>
+<!DOCTYPE html><html class=''>
+
 /**
  * Author    : Angga Kurniawan
- * Facebook  : https://fb.me/gaaaarzxd
+ * Facebook  : https://facebook.com/gaaaarzxd
  * GitHub    : https://github.com/anggaxd
  * Instagram : https://www.instagram.com/gaaarzxd
+ * Website   : https://anggaxd.herokuapp.com
  */
 
 <head><meta charset='UTF-8'><meta name="robots" content="noindex">
