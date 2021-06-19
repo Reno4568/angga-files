@@ -1,13 +1,4 @@
 <!DOCTYPE html><html class=''>
-
-/**
- * Author    : Angga Kurniawan
- * Facebook  : https://facebook.com/gaaaarzxd
- * GitHub    : https://github.com/anggaxd
- * Instagram : https://www.instagram.com/gaaarzxd
- * Website   : https://anggaxd.herokuapp.com
- */
-
 <head><meta charset='UTF-8'><meta name="robots" content="noindex">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="ANGGAXD TOOLKIT" />
