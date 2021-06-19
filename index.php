@@ -1,6 +1,4 @@
 <!DOCTYPE html>
-
-<?php
 /**
  * Author    : Angga Kurniawan
  * Facebook  : https://fb.me/gaaaarzxd
