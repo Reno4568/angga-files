@@ -1,22 +1,13 @@
 <!DOCTYPE html><html class=''>
-
-/**
- * Author    : Angga Kurniawan
- * Facebook  : https://facebook.com/gaaaarzxd
- * GitHub    : https://github.com/anggaxd
- * Instagram : https://www.instagram.com/gaaarzxd
- * Website   : https://anggaxd.herokuapp.com
- */
-
 <head><meta charset='UTF-8'><meta name="robots" content="noindex">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="ANGGAXD TOOLKIT" />
 <meta property="og:url" content="https://anggaxd.herokuapp.com" />
-<meta property="og:description" content="Btw Angga Ganteng :v" />
+<meta property="og:description" content="Sebuah Web Tools Untuk Melihat IP Address Dan User Agent" />
 <title>ANGGAXD TOOLKIT</title>
 <link rel="shortcut icon" href="https://i.ibb.co/Z29XtDF/media-social-web-website-world-world-wide-web-www-icon-1320137118617799695.png">
 <style class="cp-pen-styles">body {
-  background-color:  #121010 ;
+  background-color:  #1c1818 ;
 }
 svg {
   position: absolute;
@@ -144,11 +135,11 @@ setInterval(function() {
 <p>TOOLS BY ANGGA KURNIAWAN</p>
 <div class="buttons-con">
 <div class="action-link-wrap">
-<a href="/ip" class="link-button">IP ADDRESS</a>
-<a href="/ua" class="link-button">USER AGENT</a>
+<a href="https://anggaxd.herokuapp.com/ip" class="link-button">IP ADDRESS</a>
+<a href="https://anggaxd.herokuapp.com/ua" class="link-button">USER AGENT</a>
 <br><br><br>
-<a href="/kota" class="link-button">KOTA</a>
-<a href="/negara" class="link-button">NEGARA</a>
+<a href="https://anggaxd.herokuapp.com/kota" class="link-button">KOTA</a>
+<a href="https://anggaxd.herokuapp.com/negara" class="link-button">NEGARA</a>
 <br><br><br>
 <a href="https://www.facebook.com/gaaaarzxd" class="link-button">LAPORKAN</a>
 <br><br><br>
@@ -159,6 +150,7 @@ setInterval(function() {
 </div>
 </div>
 </div>
+<script type="text/javascript" src="https://www.nathanielrivers.com/js/app.js"></script>
 <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju-2.js" type="text/javascript"></script>
 <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/green-bintang-jatuh.js" type="text/javascript"></script>
