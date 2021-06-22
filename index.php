@@ -1,4 +1,13 @@
 <!DOCTYPE html><html class=''>
+
+/**
+ * Author    : Angga Kurniawan
+ * Facebook  : https://facebook.com/gaaaarzxd
+ * GitHub    : https://github.com/anggaxd
+ * Instagram : https://www.instagram.com/gaaarzxd
+ * Website   : https://anggaxd.herokuapp.com
+ */
+
 <head><meta charset='UTF-8'><meta name="robots" content="noindex">
 <meta property="og:type" content="website" />
 <meta property="og:title" content="ANGGAXD TOOLKIT" />
@@ -135,11 +144,11 @@ setInterval(function() {
 <p>TOOLS BY ANGGA KURNIAWAN</p>
 <div class="buttons-con">
 <div class="action-link-wrap">
-<a href="https://anggaxd.herokuapp.com/ip" class="link-button">IP ADDRESS</a>
-<a href="https://anggaxd.herokuapp.com/ua" class="link-button">USER AGENT</a>
+<a href="/ip" class="link-button">IP ADDRESS</a>
+<a href="/ua" class="link-button">USER AGENT</a>
 <br><br><br>
-<a href="https://anggaxd.herokuapp.com/kota" class="link-button">KOTA</a>
-<a href="https://anggaxd.herokuapp.com/negara" class="link-button">NEGARA</a>
+<a href="/kota" class="link-button">KOTA</a>
+<a href="/negara" class="link-button">NEGARA</a>
 <br><br><br>
 <a href="https://www.facebook.com/gaaaarzxd" class="link-button">LAPORKAN</a>
 <br><br><br>
