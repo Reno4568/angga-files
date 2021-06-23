@@ -1,17 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Tools Encode Dan Decrypt</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Website Tools Encode Dan Decrypt">
+<meta name="robots" content="all"/>
+<link rel="shortcut icon" href="https://i.ibb.co/Z29XtDF/media-social-web-website-world-world-wide-web-www-icon-1320137118617799695.png">
+<style class="cp-pen-styles">body {
+  background-color:  #1c1818 ;
+}
 <?php 
 @ini_set('output_buffering',0); 
  @ini_set('display_errors', 0);
  $text = $_POST['code'];
  ?>
  <center>
- <h2>Encode And Decode</h2>
+ <h2>Tools Encode Dan Decrypt</h2>
  <form method="post">
  <br>
  <textarea class='form-control con7' cols='60' rows='10' name="code"></textarea>
  <br><br>
  <select class='form-control con7' size="1" name="ope">
  <center>
- <option value="urlencode">url</option>
+ <option value="urlencode">pilih opsi endec</option>
  <option value="base64">base64</option>
  <option value="ur">convert_uu</option>
  <option value="json">json</option>
@@ -25,8 +37,8 @@
  <option value="url">base64 - gzinflate - str_rot13 - convert_uu - gzinflate - base64</option>
  </center>
  </select>
- &nbsp;<br><br><input class='kntd' type='submit' name='submit' value='Encode'>
- <input class='kntd' type='submit' name='submits' value='Decode'>
+ &nbsp;<br><br><input class='asu' type='submit' name='submit' value='Encode'>
+ <input class='asu' type='submit' name='submits' value='Decode'>
  </form>
  <br>
  <?php 
@@ -65,5 +77,4 @@
  break;default:break;}}
  $html = htmlentities(stripslashes($codi));
  echo "<form><textarea cols=60 rows=10 class='form-control con7' >".$html."</textarea></center></form><br/><br/>";
-
 ?>
