@@ -150,6 +150,7 @@ setInterval(function() {
 <a href="/kota" class="link-button">KOTA</a>
 <a href="/negara" class="link-button">NEGARA</a>
 <br><br><br>
+<a href="/endec" class="link-button">ENDEC</a>
 <a href="https://www.facebook.com/gaaaarzxd" class="link-button">LAPORKAN</a>
 <br><br><br>
 <p>TOOLS UNTUK TERMUX</p>
