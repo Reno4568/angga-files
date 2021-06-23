@@ -7,7 +7,6 @@
 <meta name="description" content="Website Tools Encode Dan Decrypt">
 <meta name="robots" content="all"/>
 <link rel="shortcut icon" href="https://i.ibb.co/Z29XtDF/media-social-web-website-world-world-wide-web-www-icon-1320137118617799695.png">
-<style class="cp-pen-styles">body {background-color:  #1c1818 ;}
 <?php 
 @ini_set('output_buffering',0); 
  @ini_set('display_errors', 0);
